@@ -1,6 +1,6 @@
 Completed this Project as a Part of my Internship with United Network of Professionals (UNP).
 
-key Highlights:
+Key Highlights:
 
 1.Implementation of primary key and foreign key relationships for data integrity.
 2.Data Transformation in Backup Database
